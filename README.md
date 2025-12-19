@@ -71,7 +71,7 @@ ParamModel(
 
 - PARAM-0.5B has been trained for `271,380` steps for several days. The loss curve has been indicated as below. 
 - Datasets Used: wikipedia + stackexchange open-source datasets have been used.
-- NVIDIA A100 HBM GPU + AMD EPYC CPU used for training.
+- NVIDIA A100 80GB HBM GPU + AMD EPYC CPU used for training.
 
 <img width="887" height="390" alt="Screenshot 2025-11-04 at 5 15 31 PM" src="https://github.com/user-attachments/assets/4ee3b1d2-de12-4b32-bb17-d061a7f5b50a" />
 
